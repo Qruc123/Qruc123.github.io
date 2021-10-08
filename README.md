@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh-cn">
     <body>
          <h1>短短三集便引爆b站的国漫新作——雾山五行</h1>
