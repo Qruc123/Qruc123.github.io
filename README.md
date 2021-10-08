@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-cn">
-    <head>
-        <meta charset="utf-8"/>
-        <title>来自cds的一份安利</title>
-    </head>
     <body>
          <h1>短短三集便引爆b站的国漫新作——雾山五行</h1>
         <p>2020年7月26日，一部神奇的国漫横空出世，仅播出一集便收获b友的无数好评，点赞收藏投币数直线飙升，它就是——<a href="https://www.bilibili.com/bangumi/play/ep331423?from=search&seid=9037453791696411528&spm_id_from=333.337.0.0">雾山五行</a>（此处应有bgm）。</p>
